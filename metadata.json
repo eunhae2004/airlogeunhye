@@ -1,0 +1,6 @@
+{
+  "name": "AIRLOG - 에어코리아 대기오염정보 서비스",
+  "description": "한국환경공단 에어코리아 OpenAPI 기반 실시간 대기질 분석, 시도별 비교 및 예보 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
